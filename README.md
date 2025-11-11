@@ -1,5 +1,4 @@
-# mina
-git clone https://github.com/mina/mina.github.io.git
+git clone https://github.com/mina.github.io.git
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
