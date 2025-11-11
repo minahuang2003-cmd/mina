@@ -1,4 +1,4 @@
-git clone https://github.com/minahuang2003-cmd/minahuang2003-cmd.github.io.git
+git clone https://github.com/mina/mina.github.io.git
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
